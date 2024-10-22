@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Netec\\source\\repos\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|c:\\users\\netec\\source\\repos\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|c:\\users\\netec\\source\\repos\\poo\\polimorfismo\\ifuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|solutionrelative:polimorfismo\\ifuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|c:\\users\\netec\\source\\repos\\poo\\herencia\\electrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|solutionrelative:herencia\\electrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|c:\\users\\netec\\source\\repos\\poo\\encapsulacion\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|solutionrelative:encapsulacion\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|c:\\users\\netec\\source\\repos\\poo\\abstraccion\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1908518-EA92-4D1E-AC16-5FE84AA309FC}|POO.csproj|solutionrelative:abstraccion\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFuncion.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\source\\repos\\POO\\Polimorfismo\\IFuncion.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\IFuncion.cs",
+              "ToolTip": "C:\\Users\\Netec\\source\\repos\\POO\\Polimorfismo\\IFuncion.cs",
+              "RelativeToolTip": "Polimorfismo\\IFuncion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:50:21.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Electrodomestico.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\source\\repos\\POO\\Herencia\\Electrodomestico.cs",
+              "RelativeDocumentMoniker": "Herencia\\Electrodomestico.cs",
+              "ToolTip": "C:\\Users\\Netec\\source\\repos\\POO\\Herencia\\Electrodomestico.cs",
+              "RelativeToolTip": "Herencia\\Electrodomestico.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:38:14.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\source\\repos\\POO\\Encapsulacion\\Account.cs",
+              "RelativeDocumentMoniker": "Encapsulacion\\Account.cs",
+              "ToolTip": "C:\\Users\\Netec\\source\\repos\\POO\\Encapsulacion\\Account.cs",
+              "RelativeToolTip": "Encapsulacion\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:27:45.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\source\\repos\\POO\\Abstraccion\\Person.cs",
+              "RelativeDocumentMoniker": "Abstraccion\\Person.cs",
+              "ToolTip": "C:\\Users\\Netec\\source\\repos\\POO\\Abstraccion\\Person.cs",
+              "RelativeToolTip": "Abstraccion\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:04:53.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\source\\repos\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Netec\\source\\repos\\POO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:04:15.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
