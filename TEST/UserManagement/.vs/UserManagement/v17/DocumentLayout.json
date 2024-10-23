@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Netec\\source\\repos\\TEST\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03EFE39A-72B8-4B45-933C-465F85DA8FD1}|UserManagement.csproj|c:\\users\\netec\\source\\repos\\test\\usermanagement\\tests\\usuarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EFE39A-72B8-4B45-933C-465F85DA8FD1}|UserManagement.csproj|solutionrelative:tests\\usuarioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EFE39A-72B8-4B45-933C-465F85DA8FD1}|UserManagement.csproj|c:\\users\\netec\\source\\repos\\test\\usermanagement\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EFE39A-72B8-4B45-933C-465F85DA8FD1}|UserManagement.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\source\\repos\\TEST\\UserManagement\\Tests\\UsuarioServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\UsuarioServiceTests.cs",
+              "ToolTip": "C:\\Users\\Netec\\source\\repos\\TEST\\UserManagement\\Tests\\UsuarioServiceTests.cs",
+              "RelativeToolTip": "Tests\\UsuarioServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:14:12.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\source\\repos\\TEST\\UserManagement\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Netec\\source\\repos\\TEST\\UserManagement\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA7wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:44:00.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

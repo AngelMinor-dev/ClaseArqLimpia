@@ -1,0 +1,32 @@
+<nav class="navbar bg-primary">
+  <div class="container-fluid">
+    <a class="navbar-brand" style="color:aliceblue;" >CENACE</a>
+  </div>
+</nav>
+<br><br>
+<div class="container-fluid">
+    <table class="table table-dark table-striped-colums">
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Name</th>
+          <th>MaxLife</th>
+          <th>Description</th>
+          <th>Image</th>
+        </tr>
+      </thead>
+      <tbody>
+
+          @for(dog of dogs; track $index){
+            <tr>
+              <td>{{dog.id}}</td>
+              <td>{{dog.name}}</td>
+              <td>{{dog.maxLife}}</td>
+              <td>{{dog.description}}</td>
+              <td><img src="{{dog.urlImage}}" width="200px" height="200px"></td>
+            </tr>
+          }
+
+      </tbody>
+    </table>
+</div>
